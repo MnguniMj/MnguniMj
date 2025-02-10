@@ -1,11 +1,11 @@
 # 👋 Hi, I'm @MnguniMj
 
-Welcome to my GitHub profile! I'm passionate about Python programming and currently diving deep into Django and Machine Learning. If you share similar interests or are working on exciting projects, I'm open to collaboration.
+Welcome to my GitHub profile! I'm passionate about JavaScript programming and currently diving Full Stack Developemt. If you share similar interests or are working on exciting projects, I'm open to collaboration.
 
 ## 👀 About Me
 
-- 🌱 I'm currently learning Django and exploring the vast world of Machine Learning.
-- 💞️ I'm eager to collaborate on projects related to Web, Mobile, Desktop Apps, and Machine Learning.
+- 🌱 I'm currently learning React, NodeJs>ExpressJs>MongoDB and React Native.
+- 💞️ I'm eager to collaborate on projects related to Web, Mobile.
 
 ## 🤝 Let's Collaborate
 
