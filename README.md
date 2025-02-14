@@ -15,5 +15,5 @@ If you have an interesting project or idea and you're looking for a collaborator
 
 You can connect with me through my [website](https://mngunimabaleha.co.za/). Don't hesitate to drop me a message if you have any questions or just want to say hi!
 
-Looking forward to connecting and creating awesome things together! 🚀
+Looking forward to connecting and creating awesome things together... 🚀
 
